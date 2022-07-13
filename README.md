@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loaiwalid07
+- 👋 Hi, I’m Loai Nazeer
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learing and Data Science
 - 📫 How to reach me loai.nazeer@gmail.com
